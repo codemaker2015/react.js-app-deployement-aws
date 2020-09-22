@@ -23,7 +23,7 @@ This tutorial will be focused on setting up the server on AWS EC2, then deployin
 [Configure NGINX to serve API and front-end](https://jasonwatmore.com/#configure-nginx)
 [Test the MERN Stack app in a browser](https://jasonwatmore.com/#test-mern-stack-app)
 
-![demo video](https://github.com/codemaker2015/react.js-app-deployement-aws/blob/master/demo_video.gif)
+![demo video](https://github.com/codemaker2015/react.js-app-deployement-aws/blob/master/react-js-aws-deployment.gif)
 
 ### 1. Create a new Ubuntu Server on AWS EC2
 [Watch this step on YouTube](https://www.youtube.com/watch?v=FanoTGjkxhQ&t=135s)
